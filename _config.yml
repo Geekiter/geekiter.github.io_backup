@@ -42,19 +42,13 @@ email: albertchen.dev@outlook.com
 weixin-mp: https://www.chenkeyan.com/wexin-mp/
 
 authors:
-#   johndoe:
-#     name: John Doe
-#     bio: A Man who travels the world eating noodles
-#     external-image: false
-#     picture: assets/images/profile.jpg
-#     twitter: johndoe
   albert:
     name: Albert Chen
     bio: 计算机科学领域从事者 
     external-image: false
     picture: assets/images/profile.jpg
-#     twitter: jamesfoster
     email: albertchen.dev@outlook.com
+    website: www.chenkeyan.com
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
