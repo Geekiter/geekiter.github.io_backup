@@ -1,3 +1,4 @@
+
 # main text of home
 title: Albert Chen
 bio: 计算机科学
@@ -119,3 +120,5 @@ exclude:
     "FAQ.md",
     "vendor",
   ]
+# 时区
+timezone: Asia/Shanghai
