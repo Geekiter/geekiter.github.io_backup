@@ -42,6 +42,15 @@
                 <span class="icon-emial">Email</span>
             </a>
             {% endif %}
+                        {% if site.authors[page.author].website %}
+            <a
+                class="email"
+                href="mailto:{{site.authors[page.author].website}}"
+            >
+                <i class="fa-solid fa-face-smile-wink"></i>
+                <span class="icon-website">Website</span>
+            </a>
+            {% endif %}
         </div>
     </div>
 </section>
