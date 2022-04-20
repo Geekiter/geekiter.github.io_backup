@@ -9,7 +9,7 @@ description: 计算机科学领域相关
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profile.jpg
+picture: assets/images/avatar.png
 
 # your site color theme, false to light theme
 dark-theme: false
