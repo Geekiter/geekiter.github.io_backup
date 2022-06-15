@@ -37,6 +37,12 @@
         </a>
     {% endif %}
     
+        {% if site.blog %}
+        <a class="link" data-title="{{ site.blog }}" href="{{ site.blog }}"  rel="noopener">
+            <i class="fa-solid fa-pen-fancy"></i>
+        </a>
+    {% endif %}
+    
     {% if site.weixin-mp %}
         <a class="link" data-title="{{ site.weixin-mp }}" href="{{ site.weixin-mp }}"  rel="noopener">
             <i class="fa-brands fa-weixin"></i>
