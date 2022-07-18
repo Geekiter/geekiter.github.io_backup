@@ -1,7 +1,7 @@
 
 # main text of home
-title: Albert Chen
-bio: 计算机科学领域从事者
+title: 陈柯炎
+bio: 生物医学工程硕士在读
 
 # twitter summary info
 description: 计算机科学领域相关
@@ -46,7 +46,7 @@ yuque: https://www.yuque.com/albert_chen
 authors:
   albert:
     name: Albert Chen
-    bio: 计算机科学领域从事者 
+    bio: 生物医学工程硕士在读
     external-image: false
     picture: assets/images/avatar_red.png
     email: albertchen.dev@outlook.com
